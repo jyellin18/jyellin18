@@ -1,4 +1,4 @@
-## Hi there 👋
+## Beginner programmer currently working on a simple app
 
 <!--
 **jyellin18/jyellin18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
